@@ -8,7 +8,7 @@
 
 I'm a student of computer engineer from Türkiye and I love so much coding
 
-- 🌱 I’m currently learning **Phyton Language**
+- 🌱 I’m currently learning **Phyton and C Language**
 
 - 📫 Reach me at **berkebulurlar01@gmail.com**
 
